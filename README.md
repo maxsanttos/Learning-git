@@ -71,6 +71,8 @@ git  remote add origin <https://github.com/maxsanttos/Curso_git>
 git push -u origin master
 
 remover a origem atual
+
 git remote -v - ver as origins
+
 git remote rm origin - para remover
 
