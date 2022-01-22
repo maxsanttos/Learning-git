@@ -138,5 +138,9 @@ O ato de baixar um repositório de um servidor remoto é chamado de **clonar rep
 Para esta ação utilizamos o **git clone**
 Passando a **referência** do repositório remoto;
 Este comando é utilizado quando **entramos em um novo projeto**,por exemplo;
+
+### Comando
+
+git clone <url>
 __________________________________________________
 
