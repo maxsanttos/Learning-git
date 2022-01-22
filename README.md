@@ -61,6 +61,7 @@ git init
 3º git push -u origin master
 
 git branch -M master - para criar uma branch
+___________________________________________
 
 ## adcionando uma origem
 
