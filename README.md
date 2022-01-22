@@ -141,6 +141,6 @@ Este comando é utilizado quando **entramos em um novo projeto**,por exemplo;
 
 ### Comando
 
-git clone <url>
+git clone <https://github.com/maxsanttos/Curso_git.git>
 __________________________________________________
 
