@@ -60,7 +60,17 @@ git commit -m "first commit"
 
 git branch -M master
 
-git remote add origin git@github.com:maxsanttos/Curso_git
+## adcionando uma origem
+
+tem duas formas -> 
+
+git remote add origin <git@github.com:maxsanttos/Curso_git> 
+
+git  remote add origin <https://github.com/maxsanttos/Curso_git>
 
 git push -u origin master
+
+remover a origem atual
+git remote -v - ver as origins
+git remote rm origin - para remover
 
