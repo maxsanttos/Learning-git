@@ -153,6 +153,6 @@ Apenas quando for adicionando novamente pelo **git add**
 
 COMANDO
 **git rm about.html**
+_____________________________________________________
 
-_______________________________________________________
-
+##
