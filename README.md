@@ -110,3 +110,9 @@ A alterações salvas do projetos são realizadas por:**git commit**
 Podemos commitar **arquivos específicos** ou vários de uma vez com a flag **-a**
 É uma boa prática enviar **uma mensagem a cada commit**, com as alterações que foram feitas;
 A mensagem podem ser adicionada com a flag **-m**
+
+### Comando para enviar todos ou commitar todos
+
+git commit -a -m "uma_mensagem"
+___________________________________________________
+
