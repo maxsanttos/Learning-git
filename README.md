@@ -130,4 +130,11 @@ __________________________________________________
 Esta ação é feita pelo **git pull**
 
 Após o comando serão **buscadas atualizações**, se encontradas elas **serão unidas ao código atual** existente na nossa máquina;
-_____________________________________________________z
+_____________________________________________________
+
+## Clonando repositórios
+
+O ato de baixar um repositório de um servidor remoto é chamado de **clonar repositório**;
+Para esta ação utilizamos o **git clone**
+Passando a **referência** do repositório remoto;
+Este comando é utilizado quando **entramos em um novo projeto**,por exemplo;
