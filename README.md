@@ -54,11 +54,13 @@ echo "# curso_git" >> README.md
 
 git init
 
-git add README.md
+ 1º git add README.md
 
-git commit -m "first commit"
+2º git commit -m "first commit"
 
-git branch -M master
+3º git push -u origin master
+
+git branch -M master - para criar uma branch
 
 ## adcionando uma origem
 
@@ -67,12 +69,11 @@ tem duas formas ->
 git remote add origin <git@github.com:maxsanttos/Curso_git> 
 
 git  remote add origin <https://github.com/maxsanttos/Curso_git>
+____________________________________________
 
-git push -u origin master
-
-remover a origem atual
+## Remover a origem atual
 
 git remote -v - ver as origins
 
 git remote rm origin - para remover
-
+_____________________________________________
