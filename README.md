@@ -124,3 +124,10 @@ Esta ação é feita pelo **git push**
 Após esta ação **o código do servidor será atualizado baseando-se no código local** enviado;
 __________________________________________________
 
+## Recendo as mundanças
+
+É comun também ter que **sicronizar o local** com as mudanças do remoto;
+Esta ação é feita pelo **git pull**
+
+Após o comando serão **buscadas atualizações**, se encontradas elas **serão unidas ao código atual** existente na nossa máquina;
+_____________________________________________________
