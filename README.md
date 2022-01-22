@@ -63,11 +63,11 @@ git init
 git branch -M master - para criar uma branch
 ___________________________________________
 
-## adcionando uma origem
+## Adcionando uma origem
 
-tem duas formas -> 
+tem duas formas ->
 
-git remote add origin <git@github.com:maxsanttos/Curso_git> 
+git remote add origin <git@github.com:maxsanttos/Curso_git>
 
 git  remote add origin <https://github.com/maxsanttos/Curso_git>
 ____________________________________________
@@ -78,3 +78,13 @@ git remote -v - ver as origins
 
 git remote rm origin - para remover
 _____________________________________________
+
+## Verificando mundanças do projeto
+
+As mundaças do projetos podem ser verificadas por:**git status**
+Este comadno é utilizado **muito frequentemente**;
+Aqui serão mapeadas todas as alterações do projetos;
+Como:**arquivos não monitorados** e **arquivos modificados**;
+Podemos também dizer que é a **diferença** do que já está enviado ao servidor ou salvo no projeto;
+________________________________________________
+
