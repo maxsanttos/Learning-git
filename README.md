@@ -144,3 +144,12 @@ Este comando é utilizado quando **entramos em um novo projeto**,por exemplo;
 git clone <https://github.com/maxsanttos/Curso_git.git>
 __________________________________________________
 
+## Removendo arquivos do repo
+
+Os arquivos **podem ser deletados da monitoração** do git
+O comando para deletar é **git rm**
+Após deletar um arquivo do git ele não terá mais suas atualizações consideradas pelo git;
+Apenas quando for adicionando novamente pelo **git add**
+
+_______________________________________________________
+
