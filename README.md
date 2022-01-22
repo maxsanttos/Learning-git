@@ -101,7 +101,7 @@ COMANDOS
 
 Para adicionar tudo 
 
-git add . - ele adciona todos os arquivos criatos para serem committed
+git add .  -> ele adciona todos os arquivos criatos para serem committed
 
 
 _________________________________________________
