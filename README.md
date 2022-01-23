@@ -198,7 +198,9 @@ Após a finaliação das alterações os **branchs são unidos** para ter o cód
 ## Criando e visualizando os branches
 
 Para visualizar os branchs disponíveis basta digitar **git branch**
+
 Para criar um branch você precisa utilizar o comando **git branch <nome_brach >**
+
 Estas duas operações são muito utilizadas no dia a dia de um dev;
 
 ##
