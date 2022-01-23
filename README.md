@@ -184,4 +184,14 @@ Todas as alterações **commitadas** e **também as pendentes** serão excluída
 comando ->
 **git reset --hard origin/master**
 
-## 
+## Braches
+
+* _Introdução da seção_
+
+## O que é um branch?
+
+Branch é a forma que o git **separa as versões dos projetos**;
+Quando um projeto é criado ele inicia na branch **master**, estamos trabalhando nela até este ponto do curso;
+Geralmente cada nova feature de um projeto **fica em um branch separado**;
+Após a finaliação das alterações os **branchs são unidos** para ter o código-fonte final;
+
