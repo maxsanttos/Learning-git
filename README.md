@@ -61,7 +61,6 @@ git init
 3º git push -u origin master
 
 git branch -M master - para criar uma branch
-___________________________________________
 
 ## Adcionando uma origem
 
@@ -70,14 +69,12 @@ tem duas formas ->
 git remote add origin <git@github.com:maxsanttos/Curso_git>
 
 git  remote add origin <https://github.com/maxsanttos/Curso_git>
-_____________________________________________
 
 ## Remover a origem atual
 
 git remote -v - ver as origins
 
 git remote rm origin - para remover
-_____________________________________________
 
 ## Verificando mundanças do projeto
 
@@ -86,7 +83,6 @@ Este comadno é utilizado **muito frequentemente**;
 Aqui serão mapeadas todas as alterações do projetos;
 Como:**arquivos não monitorados** e **arquivos modificados**;
 Podemos também dizer que é a **diferença** do que já está enviado ao servidor ou salvo no projeto;
-________________________________________________
 
 ## Adicionando arquivo ao projeto
 
@@ -99,10 +95,9 @@ Ou seja, **se não adicionar ele não estará** no controle de versão;
 
 COMANDOS
 
-Para adicionar tudo 
+Para adicionar tudo
 
 git add .  -> ele adciona todos os arquivos criatos para serem committed
-_______________________________________________
 
 ## Salvando alterações do projeto
 
@@ -114,7 +109,6 @@ A mensagem podem ser adicionada com a flag **-m**
 ### Comando para enviar todos ou commitar todos
 
 git commit -a -m "uma_mensagem"
-___________________________________________________
 
 ## Enviando código ao repo remoto
 
@@ -122,7 +116,6 @@ Quando finalizamos uma funcionalidade nova,**enviamos o código ao repositório 
 
 Esta ação é feita pelo **git push**
 Após esta ação **o código do servidor será atualizado baseando-se no código local** enviado;
-__________________________________________________
 
 ## Recendo as mundanças
 
@@ -130,7 +123,6 @@ __________________________________________________
 Esta ação é feita pelo **git pull**
 
 Após o comando serão **buscadas atualizações**, se encontradas elas **serão unidas ao código atual** existente na nossa máquina;
-_____________________________________________________
 
 ## Clonando repositórios
 
@@ -142,7 +134,6 @@ Este comando é utilizado quando **entramos em um novo projeto**,por exemplo;
 ### Comando
 
 git clone <https://github.com/maxsanttos/Curso_git.git>
-__________________________________________________
 
 ## Removendo arquivos do repo
 
@@ -153,7 +144,6 @@ Apenas quando for adicionando novamente pelo **git add**
 
 COMANDO
 **git rm about.html**
-_____________________________________________________
 
 ## Histórico de alterações
 
@@ -161,7 +151,6 @@ Podemos **acessar um log** de modificações feitas no projetos;
 O comando para este recurso é **git log**
 Você receberá uma informação dos **commits realizados** no projeto até então;
 Para sair é só aperta a tecla **q ou ctrl+c**
-________________________________________________________
 
 ## Renomeando arquivos
 
@@ -169,8 +158,6 @@ Com o comando **git mv** podemos renomear um arquivo;
 O mesmo também pode ser **movido para outra pasta**;
 E isso fará com que este novo arquivo **seja monitorado pelo git**;
 O arquivo anterior é **excluído**;
-
-____________________________________________________________
 
 ## Desfazendo alterações
 
@@ -180,8 +167,6 @@ Após a utilização do mesmo o arquivo sai do staging;
 Caso seja feita uma próxima alteração, ele entra em staging novamente;
 **git checkout <nome_arquivo>**
 
-____________________________________________________________
-
 ## Ignorando arquivos no projetos
 
 Uma técnica muito utilizada é **ignorar arquivos do projeto**;
@@ -189,4 +174,4 @@ Devemos inserir um arquivo chamado **.gitignore** na raiz do projeto;
 Nele podemos inserir os arquivos que não devem entrar no versionamento;
 Isso é útil para **arquivos geredos automaticamente** ou arquivos que contém **informações sensíveis**;
 
-_________________________________________________________
+## 
