@@ -181,4 +181,7 @@ Geralmente é utilizado com a flag **--hard**
 
 Todas as alterações **commitadas** e **também as pendentes** serão excluídas;
 
+comando ->
+**git reset --hard origin/master**
 
+## 
