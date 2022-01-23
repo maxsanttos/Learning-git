@@ -181,3 +181,12 @@ Caso seja feita uma próxima alteração, ele entra em staging novamente;
 **git checkout <nome_arquivo>**
 
 ____________________________________________________________
+
+## Ignorando arquivos no projetos
+
+Uma técnica muito utilizada é **ignorar arquivos do projeto**;
+Devemos inserir um arquivo chamado **.gitignore** na raiz do projeto;
+Nele podemos inserir os arquivos que não devem entrar no versionamento;
+Isso é útil para **arquivos geredos automaticamente** ou arquivos que contém **informações sensíveis**;
+
+_________________________________________________________
