@@ -155,4 +155,20 @@ COMANDO
 **git rm about.html**
 _____________________________________________________
 
-##
+## Histórico de alterações
+
+Podemos **acessar um log** de modificações feitas no projetos;
+O comando para este recurso é **git log**
+Você receberá uma informação dos **commits realizados** no projeto até então;
+Para sair é só aperta a tecla **q ou ctrl+c**
+________________________________________________________
+
+## Renomeando arquivos
+
+Com o comando **git mv** podemos renomear um arquivo;
+O mesmo também pode ser **movido para outra pasta**;
+E isso fará com que este novo arquivo **seja monitorado pelo git**;
+O arquivo anterior é **excluído**;
+
+____________________________________________________________
+
