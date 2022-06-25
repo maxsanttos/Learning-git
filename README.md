@@ -88,6 +88,7 @@ Podemos também dizer que é a **diferença** do que já está enviado ao servid
 
 Para adcionar arquivos novos a um projeto utilizamos:**git add**
 Podemos adcionar **um arquivo** específico como também **diversos de uma vez só**;
+Usando o **git add ,**;
 
 Somente adicionando arquivos eles serão monitorados pelo git;
 Ou seja, **se não adicionar ele não estará** no controle de versão;
