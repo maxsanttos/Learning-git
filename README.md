@@ -134,7 +134,7 @@ Este comando é utilizado quando **entramos em um novo projeto**,por exemplo;
 
 ### Comando
 
-git clone <https://github.com/maxsanttos/Curso_git.git>
+git clone <https://githu/Curso_git.git>
 
 ## Removendo arquivos do repo
 
