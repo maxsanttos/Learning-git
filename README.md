@@ -66,9 +66,9 @@ git branch -M master - para criar uma branch
 
 tem duas formas ->
 
-git remote add origin <git@github.com:maxsanttos/Curso_git>
+git remote add origin <git@githu/Curso_git>
 
-git  remote add origin <https://github.com/maxsanttos/Curso_git>
+git  remote add origin <https://githu/Curso_git>
 
 ## Remover a origem atual
 
