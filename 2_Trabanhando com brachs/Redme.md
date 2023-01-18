@@ -97,6 +97,6 @@ git merge development
 
 * As tags podem ser **enviadas para o repositório de código**, sendo compartilhada entre dos devs;
 
-* O comando é **git push origin <nome>**
+* O comando é **git push origin <nome_tag>**
 
 * Ou se você quiser enviar mais tags **git push origin --tags**
