@@ -69,9 +69,17 @@ git merge development
 
 * **git stash você apaga, git stash list ver as stash salva e git stash amply id da stash recebe as stash salva**
 
+* o comando **git stash show -p e o id** , verifica as alteração de cada uma
+
+## Removendo a stash
+
+* Para limpar totalmente as stash de um branch podemos utilizar o comando **git stash clear**
+
+* Caso seja necessário deletar uma stash específica podemos utilizar **git stash drop <nome_stash>**
+
 ## Utilizando tags
 
-* Podemos criar tags nos branches por meio do comando **git tag -a <nome> -m "<msg>"**
+* Podemos criar tags nos branches por meio do comando **git tag -a <nome_tag> -m "msg"**
 
 * A tag é diferente do stash, serve como um **checkpoint de um branch**;
 
@@ -79,9 +87,9 @@ git merge development
 
 ## Verificando e alterando tags
 
-* Podemos verificar uma tag com o comando **git show <nome>**
+* Podemos verificar uma tag com o comando **git show <nome_tag>**
 
-* Podemos trocar de tags com o comando **git checkout <nome_branch>**
+* Podemos trocar de tags com o comando **git checkout <nome_tag>**
 
 * Desta maneira podemos retroceder ou avançar em checkpoints de um branch;
 
@@ -92,4 +100,3 @@ git merge development
 * O comando é **git push origin <nome>**
 
 * Ou se você quiser enviar mais tags **git push origin --tags**
-
