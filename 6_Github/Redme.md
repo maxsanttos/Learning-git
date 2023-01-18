@@ -80,3 +80,21 @@
 
 * O repositório poder **removido** nesta aba;
 
+## Criando um Gist
+
+* **Gist** são pequenos blocos de código que podem ser hospedado no Github também;
+
+* Você pode armazenar uma solução que achou interessante para algum problema e não quer peder, por exemplo;
+
+* E o link do Gist **pode ser compartilhado**;
+
+* No fim das contas o Gist **acaba sendo um repositório** também;
+
+## Encontrando repositórios
+
+* O Github não serve só para salvar os nossos projetos, podemos encontrar muitos **repos interessantes**;
+
+* Podemos até aprender com isso também, olhando o **código fonte** de desenvolvedores experientes;
+
+* E não para por aí:você pode dar **star** nos projetos que gostou ou **fork** nos que deseja continuar em um repo próprio;
+
