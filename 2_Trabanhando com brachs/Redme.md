@@ -42,7 +42,7 @@ ele muda e criar
 
 * Outro comando para a lista dos **mais utilizados**;
 
-* Normalmente é por meio dele que recebemos as atualizações de outros 
+* Normalmente é por meio dele que recebemos as atualizações de outros
 dev;
 
 ```git
