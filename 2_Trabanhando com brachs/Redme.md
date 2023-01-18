@@ -31,5 +31,9 @@ Podemos mudar para outro branch utilizando o comando **git checkout -b <nome_bra
 Este comando também é utilizado para dispensar mudanças de um arquivo;
 Alterando o branch podemos lear alterações que foram commitadas juntos, **tome cuidado!!**
 
-comandos ->
-**git checkout -b <nome_branch>** -> ele muda e criar
+```comandos
+git checkout -b nome_branch 
+ele muda e criar
+```
+
+## Unindo branches
