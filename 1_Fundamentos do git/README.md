@@ -54,7 +54,7 @@ echo "# curso_git" >> README.md
 
 git init
 
- 1º git add README.md
+1º git add README.md
 
 2º git commit -m "first commit"
 
@@ -184,40 +184,3 @@ Todas as alterações **commitadas** e **também as pendentes** serão excluída
 
 comando ->
 **git reset --hard origin/master**
-
-## Braches
-
-* _Introdução da seção_
-
-## O que é um branch?
-
-Branch é a forma que o git **separa as versões dos projetos**;
-Quando um projeto é criado ele inicia na branch **master**, estamos trabalhando nela até este ponto do curso;
-Geralmente cada nova feature de um projeto **fica em um branch separado**;
-Após a finaliação das alterações os **branchs são unidos** para ter o código-fonte final;
-
-## Criando e visualizando os branches
-
-Para visualizar os branchs disponíveis basta digitar **git branch**
-
-Para criar um branch você precisa utilizar o comando **git branch <nome_brach>**
-
-Estas duas operações são muito utilizadas no dia a dia de um dev;
-
-## Deletando Branches
-
-Podemos deletar um branch com a flag **-d ou --delete**
-**Não é comun deletar um branch**,normalmente guardamos o histórico do trabalho;
-Geralmente se usa o delete quando o branch foi criado errado;
-comando ->
-**git branch -d <nome_branch>**
-
-## Mudando de Branch
-
-Podemos mudar para outro branch utilizando o comando **git checkout -b <nome_branch>**
-Este comando também é utilizado para dispensar mudanças de um arquivo;
-Alterando o branch podemos lear alterações que foram commitadas juntos, **tome cuidado!!**
-
-comandos ->
-**git checkout -b <nome_branch>** -> ele muda e criar
-
