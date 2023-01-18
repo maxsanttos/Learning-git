@@ -37,3 +37,9 @@ ele muda e criar
 ```
 
 ## Unindo branches
+
+* O código de dois branches distintos pode ser unido pelo comando **git merge <nome_branch>**
+
+* Outro comando para a lista dos **mais utilizados**;
+
+* Normalmente é por meio dele que recevemos as atualizações de outros dev;
