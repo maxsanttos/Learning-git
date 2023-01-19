@@ -38,3 +38,39 @@ e asssim por diante
 * As listas não ordenadas começam os itens com: ***Itens**
 
 * As listas ordenadas com: **1. Item**
+
+## Imagens
+
+* É possível **inserir imagens** em markdown também;
+
+* Veja a sintaxe: ![Texto Alt]();
+
+* A imagem pode **estar no próprio repo** ou **ser exerta**;
+
+## Links
+
+* Com o markdown  podemos **inserir links** de forma fácil;
+
+* A sintaxe é a seguinte: [Texto do Link](link)
+
+* Se for um link do GitHub pode inserir **de forma direta**:
+<https://www.github.com>
+
+## Código - GitHub
+
+* Podemos inserir **código no markdown também;
+
+* A sintaxe é : ```código```
+
+* Esta sintaxe é do markdown **especial do GitHub;
+
+## Task list - GitHub
+
+* Podemos inserir uma **lista de tarefas** pelo Markdown;
+
+* A sintaxe para tarefas concluídas: -[x] CSS do rodapé
+
+* Para não concluídas: - [] CSS da página de contatos
+
+* Esta sintaxe é do markdown **especial do GitHub**;
+
